@@ -1,0 +1,8 @@
+X,Y,fid,oid,typ,typ_ob,rodz,obiekt_noss,obiekt_sez,obiekt_pst,stat,attr,info,kob,gmina,adres,wlas,kod_projektu,data_utworzenia,data_modyfikacji,create_user,modify_user,ws,ilw,wt_pbd,Obcy,obcy1,icon_url
+18.99839466,49.81921518,"1796852","90500883",sl,słup,Końcowy z pkt. styku,BIELSKO BIAL/OSL/04887,,słup (BIE) BIAC/53/02,Czynny," model: Pojedyńczy,
+ materiał: Drewniany",,S18A,BIELSKO-BIAŁA,"BIELSKO-BIAŁA, OBFITA ",ORANGE POLSKA S.A.,,2018/09/03,2023/02/14,netl,apinll,"1",,,,Obcy,./0.png
+19.00142068,49.82471758,"1796853","90501323",sl,słup,Kablowy z pkt. styku,BIELSKO BIAL/OSL/05277,,słup (BIE) BIAC/77/01,Czynny," model: Bliźniaczy,
+ materiał: Drewniany",,S18A,BIELSKO-BIAŁA,"BIELSKO-BIAŁA, ZAPŁOCIE MAŁE 67",ORANGE POLSKA S.A.,,2018/09/03,2023/02/26,netl,apinll,"1",,,,Obcy,./0.png
+19.00129137,49.82427793,"1796854","90501324",sl,słup,Końcowy,BIELSKO BIAL/OSL/05278,,słup (BIE) BIAC/77/02,Czynny," model: Pojedyńczy,
+ odciąg: TAK,
+ materiał: Drewniany",,S18A,BIELSKO-BIAŁA,"BIELSKO-BIAŁA, ZBARASKA 5",ORANGE POLSKA S.A.,,2018/09/03,2023/02/26,netl,apinll,"1",,,,Obcy,./0.png
