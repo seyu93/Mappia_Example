@@ -322,7 +322,7 @@
 				<Title>pw1c_11_12_przyłacza</Title>
 				<Abstract>GH:pw1c_11_12_przyłacza ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸9</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="18.993130048483046" miny="49.813293550176354" maxx="19.01821817049978" maxy="49.82668341170998"></LatLonBoundingBox>
@@ -342,7 +342,7 @@
 				<Title>pw1c_11_12_kabel</Title>
 				<Abstract>GH:pw1c_11_12_kabel ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸9</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="18.992880156347265" miny="49.813445754805514" maxx="19.019346833838853" maxy="49.82660707738442"></LatLonBoundingBox>
@@ -362,7 +362,7 @@
 				<Title>siec_sferanet</Title>
 				<Abstract>GH:siec_sferanet ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸9</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="18.589708119989314" miny="49.49320890564204" maxx="21.418013967198704" maxy="50.13167873175686"></LatLonBoundingBox>
